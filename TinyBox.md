@@ -1,4 +1,4 @@
-## TinyBox隐私政策
+TinyBox隐私政策
 
 欢迎您使用TinyBox(以下简称“本软件”)。
 
